@@ -5,7 +5,7 @@
 <br>
 
 #### Week of _16 November, 2020_
-Team contract drawn up, signed and submitted by all members. Chose dataset and three algorithms to implement and set the project goals. Had first meeting to create and divide tasks to be completed during Fall break. Started on skeleton of Graph class.
+Chose dataset and three algorithms to implement and set the project goals. Had first meeting to create and divide tasks to be completed. Started on skeleton of Graph class.
 
 <br>
 
