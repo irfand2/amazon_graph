@@ -1,6 +1,3 @@
-##### CS 225
-##### Fall 2020
-##### Final Project
 
 <br>
 
